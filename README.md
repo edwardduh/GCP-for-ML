@@ -5,3 +5,4 @@ how to setup GPC and install related packages for ML/AI
 1. use @gmail.com login to GCP
 https://console.cloud.google.com/
 See console screen as
+![GCP Console][]
