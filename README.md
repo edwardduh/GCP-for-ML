@@ -68,8 +68,4 @@ https://stackoverflow.com/questions/47331050/how-to-run-jupyter-notebook-in-the-
 ### configure jupyter notebook fonts
 on GCP VM, ~/miniconda3/envs/tf/lib/python3.6/site-packages/notebook/static/custom/custom.css
 
-## 2018/10/18
-vgg19_all-cat-tile.ipynb to train for 36 classes
-(18:00) pick 10000 for train/test set, and can achieve training accuracy to 88~90%, test acc=84%
-(23:00) analyze the mis-classified sample, and found 58% of failed samples are from 4 corners (position 0, 3, 12, 15)
-![mis-classified tile position analysis](https://github.com/edwardduh/GCP-for-ML/blob/master/fail-tile-pos-histogram.jpg)
+
